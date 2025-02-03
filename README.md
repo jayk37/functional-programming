@@ -1,5 +1,9 @@
 # 🌀 Functional Programming using Racket
 
+<p align="center">
+  <img src="https://github.com/jayk37/functional-programming/blob/main/assets/Racket-logo.svg" width="100" alt="Racket Logo">
+</p>
+
 ## Overview
 This repository contains my implementations from the **PL Grad-Level** course at NYU Courant. The assignments involve implementing interpreters, parsers, type checkers, and working with object-oriented constructs in **Racket**. These assignments focus on different aspects of programming language theory and practical work. Briefly, they showcase fundamental concepts in **language design, evaluation, type checking, and functional programming**.
 
