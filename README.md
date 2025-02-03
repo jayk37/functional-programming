@@ -1,4 +1,4 @@
-# Functional Programming using Racket
+# 🌀 Functional Programming using Racket
 
 ## Overview
 This repository contains my implementations from the **Programming Languages** course at NYU Courant. The assignments involve implementing interpreters, parsers, type checkers, and working with object-oriented constructs in **Racket**. These assignments focus on different aspects of programming language theory and practical implementation.
